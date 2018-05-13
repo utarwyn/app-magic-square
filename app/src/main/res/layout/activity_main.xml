@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35sp"
+            android:layout_marginVertical="20sp"
+            android:textAlignment="center"
+            android:text="@string/mon_application"/>
+
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:layout_marginHorizontal="30sp"
+            android:text="@string/btn_multi"
+            android:onClick="allerVersMultiplication"/>
+
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30sp"
+            android:text="@string/btn_carre"
+            android:onClick="allerVersCarreMagique"/>
+
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30sp"
+            android:layout_marginTop="50sp"
+            android:text="@string/btn_quitter"
+            android:onClick="quitter"/>
+
+</LinearLayout>

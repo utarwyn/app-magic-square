@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mon App</string>
+    <string name="hello_world">Multiplication</string>
+    <string name="operation">\? x ? =</string>
+    <string name="bouton">Envoyer</string>
+    <string name="btn_multi">Multiplication</string>
+    <string name="mon_application">Mon application !</string>
+    <string name="btn_carre">Carré magique</string>
+    <string name="btn_quitter">Quitter</string>
+    <string name="btn_soumettre">Soumettre</string>
+    <string name="btn_newgame">Nouvelle partie</string>
+    <string name="btn_regles">Règles du jeu</string>
+    <string name="status_no">NON VALIDE</string>
+    <string name="status_yes">BRAVO !</string>
+    <string name="aide">Aide</string>
+
+    <string-array name="names">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string name="title_activity_carre">Carré magique</string>
+    <string name="title_activity_main">App de Maxime MALGORN</string>
+    <string name="titre_choix_niveau">Choisissez le niveau</string>
+    <string name="getting_started">Cliquer sur \"Nouvelle partie\" pour commencer à jouer</string>
+    <string name="new_game">\"Nouvelle partie\" pour démarrer</string>
+
+</resources>
